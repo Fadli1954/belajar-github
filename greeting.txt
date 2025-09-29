@@ -1,4 +1,5 @@
 percobaan satu untuk belajar git dan github 
 1. repos
 2. commit
-3. branch merge
+3. branch 
+4. merge
